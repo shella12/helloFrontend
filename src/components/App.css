@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  gap: 3rem;
+  align-items: baseline;
+}
+
+a {
+  color: #534b91;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.main-heading {
+  color: #7164d5;
+}
+
+.greetings {
+  margin-top: 15%;
+}
+
+h1 {
+  text-align: center;
+}
