@@ -80,7 +80,7 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Improve UI design
-- Add payment methods
+- Add Custome greeting options
 
 ## 🤝 Contributing <a name="contributing"></a>
 
