@@ -77,6 +77,11 @@ Clone this repository to your desired folder:
 - Twitter: [@Ayesha Arshad](https://twitter.com/AyeshaA03712974)
 - LinkedIn: [Ayesha Arshad](https://www.linkedin.com/in/ayesha-arshad-a690a015a/)
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- Improve UI design
+- Add payment methods
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
