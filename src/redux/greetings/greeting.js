@@ -3,7 +3,7 @@ import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 const STATUS = 'hello/greetingsReducer/GREETING';
 const initialState = null;
 export const getGreeting = createAsyncThunk(STATUS, async () => {
-  const result = await fetch('http://localhost:3000/greetings/index')
+  const result = await fetch('http://localhost:3000/')
     .then((result) => result.json());
   return result.greeting;
 });
