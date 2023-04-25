@@ -20,7 +20,7 @@
 
 # 📖 [Book Store] <a name="about-project"></a>
 
-> The **Hello Reast app** is just a plain greeting app that displays different  greeting messages using an api
+> The **Hello Reast app** is just a plain greeting app that displays different  greeting messages using a [Greeting Api](https://github.com/shella12/helloBackend) built using rails
 
 ## 🛠 Built With <a name="built-with"></a>
 
