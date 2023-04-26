@@ -20,7 +20,7 @@
 
 # 📖 [Book Store] <a name="about-project"></a>
 
-> The **Hello Reast app** is just a plain greeting app that displays different  greeting messages using an api
+> The **Hello Reast app** is just a plain greeting app that displays different  greeting messages using a [Greeting Api](https://github.com/shella12/helloBackend) built using rails
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -76,6 +76,11 @@ Clone this repository to your desired folder:
 - GitHub: [@shella12](https://github.com/shella12)
 - Twitter: [@Ayesha Arshad](https://twitter.com/AyeshaA03712974)
 - LinkedIn: [Ayesha Arshad](https://www.linkedin.com/in/ayesha-arshad-a690a015a/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Improve UI design
+- Add Custome greeting options
 
 ## 🤝 Contributing <a name="contributing"></a>
 
